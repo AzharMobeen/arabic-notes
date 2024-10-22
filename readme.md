@@ -32,4 +32,4 @@ J --> X["تلك (That)"]
     classDef greenShade fill:#bfb,stroke:#333,stroke-width:2px,color:#000
     class A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X greenShade;
 ```
-{% include noun/esam.md %}
+
