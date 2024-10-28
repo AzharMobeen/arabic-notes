@@ -1,3 +1,6 @@
+### أَسْمَاءُ الْإِشَارَةِ  
+
+```mermaid
 %%{init: {'theme': 'dark', 'themeVariables': {'darkMode': true}, "flowchart" : { "curve" : "basis", "nodeSpacing" : 50, "rankSpacing" : 50 } } }%%
 flowchart TB
 %% Nodes
@@ -8,7 +11,7 @@ flowchart TB
     B2["مؤنث"]
     C1["مذكر"]
     C2["مؤنث"]
-    C1Exp["jgjh"]
+    
 
 %% Paths
     A --2--> C
@@ -27,3 +30,6 @@ flowchart TB
     class A,B,C greenShade;
     class B1,C1 blueShade;
     class B2,C2 pinkShade;
+```
+
+[Previous](../readme.md) | [Next](../ism-types/readme)
