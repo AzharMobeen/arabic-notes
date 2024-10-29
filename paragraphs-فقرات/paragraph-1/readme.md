@@ -5,49 +5,48 @@
 ثم احمد رجع الى بيتهِ بعد غروب الشمس، سعيدا بماقضا من الوقت جميل مع صديقهِ
 </div>
 
-<div style="text-align: right;">
+### Word by Word Translation
 
-##### Vocabulary:
-| Urdu               | English            | Arabic                     |
-|--------------------|--------------------|----------------------------|
-| ایک دن             | One day            | في اليوم من الأيام         |
-| احمد               | Ahmad              | أحمد                       |
-| گیا                | Went               | ذهب                        |
-| کو                 | To                 | إلى                        |
-| پارک               | The park           | الحديقة                    |
-| کے ساتھ            | With               | مع                         |
-| اس کا دوست         | His friend         | صديقه                      |
-| خالد               | Khalid             | خالد                       |
-| وہ بیٹھے           | They sat           | جلسا                       |
-| کے نیچے            | Under              | تحت                        |
-| درخت               | Tree               | شجرة                       |
-| بڑا                | Big                | كبيرة                      |
-| پر                 | On                 | على                        |
-| گھاس               | The grass          | العشب                      |
-| جبکہ               | While              | بينما                      |
-| بچے                | Children           | أطفال                      |
-| کھیلے              | Played             | لعبوا                      |
-| میں                | In                 | في                         |
-| کھیل کا میدان      | The playground     | الملعب                     |
-| ان کے سامنے        | In front of them   | قدامهما                    |
-| انہوں نے بات کی    | They talked        | حدثا                       |
-| ان کے منصوبے       | Their plans        | خططهم                      |
-| مستقبل             | Future             | المستقبل                   |
-| اور خواب           | And the dreams     | والأحلام                   |
-| بڑا                | Big                | كبيرة                      |
-| پھر                | Then               | ثم                         |
-| واپس آیا           | Returned           | رجع                        |
-| کو                 | To                 | إلى                        |
-| اس کا گھر          | His Home           | بيتهِ                      |
-| کے بعد             | After              | بعد                        |
-| سورج غروب          | Sunset             | غروب الشمس                 |
-| خوش                | Happy              | سعيدا                      |
-| اس نے جو وقت گزارا | With what he spent | بما قضى                    |
-| کا                 | Of                 | من                         |
-| وقت                | The time           | الوقت                      |
-| خوبصورت            | Beautiful          | جميل                       |
-| کے ساتھ            | With               | مع                         |
-| اس کا دوست         | His friend         | صديقه                      |
-</div>
+| <div align="right">Urdu</div>           | English            | <div align="right">Arabic</div>                    |
+|-----------------------------------------|--------------------|----------------------------------------------------|
+| <div align="right">ایک دن</div>         | One day            | <div align="right">في اليوم من الأيام</div>        |
+| <div align="right">احمد</div>           | Ahmad              | <div align="right">أحمد</div>                      |
+| <div align="right">گیا</div>            | Went               | <div align="right">ذهب</div>                       |
+| <div align="right">کو</div>             | To                 | <div align="right">إلى</div>                       |
+| <div align="right">پارک</div>           | The park           | <div align="right">الحديقة</div>                   |
+| <div align="right">کے ساتھ</div>        | With               | <div align="right">مع</div>                        |
+| <div align="right">اس کا دوست</div>      | His friend         | <div align="right">صديقه</div>                     |
+| <div align="right">خالد</div>           | Khalid             | <div align="right">خالد</div>                      |
+| <div align="right">وہ بیٹھے</div>       | They sat           | <div align="right">جلسا</div>                      |
+| <div align="right">کے نیچے</div>        | Under              | <div align="right">تحت</div>                       |
+| <div align="right">درخت</div>           | Tree               | <div align="right">شجرة</div>                      |
+| <div align="right">بڑا</div>            | Big                | <div align="right">كبيرة</div>                     |
+| <div align="right">پر</div>             | On                 | <div align="right">على</div>                       |
+| <div align="right">گھاس</div>           | The grass          | <div align="right">العشب</div>                     |
+| <div align="right">جبکہ</div>           | While              | <div align="right">بينما</div>                     |
+| <div align="right">بچے</div>            | Children           | <div align="right">أطفال</div>                     |
+| <div align="right">کھیلے</div>          | Played             | <div align="right">لعبوا</div>                     |
+| <div align="right">میں</div>            | In                 | <div align="right">في</div>                        |
+| <div align="right">کھیل کا میدان</div>   | The playground     | <div align="right">الملعب</div>                    |
+| <div align="right">ان کے سامنے</div>     | In front of them   | <div align="right">قدامهما</div>                   |
+| <div align="right">انہوں نے بات کی</div> | They talked        | <div align="right">حدثا</div>                      |
+| <div align="right">ان کے منصوبے</div>    | Their plans        | <div align="right">خططهم</div>                     |
+| <div align="right">مستقبل</div>         | Future             | <div align="right">المستقبل</div>                  |
+| <div align="right">اور خواب</div>       | And the dreams     | <div align="right">والأحلام</div>                  |
+| <div align="right">بڑا</div>            | Big                | <div align="right">كبيرة</div>                     |
+| <div align="right">پھر</div>            | Then               | <div align="right">ثم</div>                        |
+| <div align="right">واپس آیا</div>       | Returned           | <div align="right">رجع</div>                       |
+| <div align="right">کو</div>             | To                 | <div align="right">إلى</div>                       |
+| <div align="right">اس کا گھر</div>       | His Home           | <div align="right">بيتهِ</div>                     |
+| <div align="right">کے بعد</div>         | After              | <div align="right">بعد</div>                       |
+| <div align="right">سورج غروب</div>      | Sunset             | <div align="right">غروب الشمس</div>                |
+| <div align="right">خوش</div>            | Happy              | <div align="right">سعيدا</div>                     |
+| <div align="right">اس نے جو وقت گزارا</div> | With what he spent | <div align="right">بما قضى</div>                   |
+| <div align="right">کا</div>             | Of                 | <div align="right">من</div>                        |
+| <div align="right">وقت</div>            | The time           | <div align="right">الوقت</div>                     |
+| <div align="right">خوبصورت</div>        | Beautiful          | <div align="right">جميل</div>                      |
+| <div align="right">کے ساتھ</div>        | With               | <div align="right">مع</div>                        |
+| <div align="right">اس کا دوست</div>      | His friend         | <div align="right">صديقه</div>                     |
+
 
 Previous: [Paragraphs](../readme.md) | Next: [Paragraph-2](../paragraph-2/readme.md)
