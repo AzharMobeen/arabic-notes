@@ -5,45 +5,48 @@
 ثم احمد رجع الى بيتهِ بعد غروب الشمس، سعيدا بماقضا من الوقت جميل مع صديقهِ
 </div>
 
-| Arabic                     | English            | Urdu               |
-|----------------------------|--------------------|--------------------|
-| في اليوم من الأيام         | One day            | ایک دن             |
-| أحمد                       | Ahmad              | احمد               |
-| ذهب                        | Went               | گیا                |
-| إلى                        | To                 | کو                 |
-| الحديقة                    | The park           | پارک               |
-| مع                         | With               | کے ساتھ            |
-| صديقه                      | His friend         | اس کا دوست         |
-| خالد                       | Khalid             | خالد               |
-| جلسا                       | They sat           | وہ بیٹھے           |
-| تحت                        | Under              | کے نیچے            |
-| شجرة                       | Tree               | درخت               |
-| كبيرة                      | Big                | بڑا                |
-| على                        | On                 | پر                 |
-| العشب                      | The grass          | گھاس               |
-| بينما                      | While              | جبکہ               |
-| أطفال                      | Children           | بچے                |
-| لعبوا                      | Played             | کھیلے              |
-| في                         | In                 | میں                |
-| الملعب                     | The playground     | کھیل کا میدان      |
-| قدامهما                    | In front of them   | ان کے سامنے        |
-| حدثا                       | They talked        | انہوں نے بات کی    |
-| خططهم                      | Their plans        | ان کے منصوبے       |
-| المستقبل                   | Future             | مستقبل             |
-| والأحلام                   | And the dreams     | اور خواب           |
-| كبيرة                      | Big                | بڑا                |
-| ثم                         | Then               | پھر                |
-| رجع                        | Returned           | واپس آیا           |
-| إلى                        | To                 | کو                 |
-| بيتهِ                      | His Home           | اس کا گھر          |
-| بعد                        | After              | کے بعد             |
-| غروب الشمس                 | Sunset             | سورج غروب          |
-| سعيدا                      | Happy              | خوش                |
-| بما قضى                    | With what he spent | اس نے جو وقت گزارا |
-| من                         | Of                 | کا                 |
-| الوقت                      | The time           | وقت                |
-| جميل                       | Beautiful          | خوبصورت            |
-| مع                         | With               | کے ساتھ            |
-| صديقه                      | His friend         | اس کا دوست         |
+<div style="text-align: right;">
+Here is the table with the columns reordered as you requested:
 
+| Urdu               | English            | Arabic                     |
+|--------------------|--------------------|----------------------------|
+| ایک دن             | One day            | في اليوم من الأيام         |
+| احمد               | Ahmad              | أحمد                       |
+| گیا                | Went               | ذهب                        |
+| کو                 | To                 | إلى                        |
+| پارک               | The park           | الحديقة                    |
+| کے ساتھ            | With               | مع                         |
+| اس کا دوست         | His friend         | صديقه                      |
+| خالد               | Khalid             | خالد                       |
+| وہ بیٹھے           | They sat           | جلسا                       |
+| کے نیچے            | Under              | تحت                        |
+| درخت               | Tree               | شجرة                       |
+| بڑا                | Big                | كبيرة                      |
+| پر                 | On                 | على                        |
+| گھاس               | The grass          | العشب                      |
+| جبکہ               | While              | بينما                      |
+| بچے                | Children           | أطفال                      |
+| کھیلے              | Played             | لعبوا                      |
+| میں                | In                 | في                         |
+| کھیل کا میدان      | The playground     | الملعب                     |
+| ان کے سامنے        | In front of them   | قدامهما                    |
+| انہوں نے بات کی    | They talked        | حدثا                       |
+| ان کے منصوبے       | Their plans        | خططهم                      |
+| مستقبل             | Future             | المستقبل                   |
+| اور خواب           | And the dreams     | والأحلام                   |
+| بڑا                | Big                | كبيرة                      |
+| پھر                | Then               | ثم                         |
+| واپس آیا           | Returned           | رجع                        |
+| کو                 | To                 | إلى                        |
+| اس کا گھر          | His Home           | بيتهِ                      |
+| کے بعد             | After              | بعد                        |
+| سورج غروب          | Sunset             | غروب الشمس                 |
+| خوش                | Happy              | سعيدا                      |
+| اس نے جو وقت گزارا | With what he spent | بما قضى                    |
+| کا                 | Of                 | من                         |
+| وقت                | The time           | الوقت                      |
+| خوبصورت            | Beautiful          | جميل                       |
+| کے ساتھ            | With               | مع                         |
+| اس کا دوست         | His friend         | صديقه                      |
+</div>
 Previous: [Paragraphs](../readme.md) | Next: [Paragraph-2](../paragraph-2/readme.md)
