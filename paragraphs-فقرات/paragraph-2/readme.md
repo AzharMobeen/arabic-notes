@@ -2,7 +2,7 @@
 
 #### Arabic Paragraph
 <div style="text-align: right;">
-هذا معاذ، هو طبيب جيد. عندما كان طفلاً، كان يحب أن يساعد الناس. لهذا، حلمه أن يصبح طبيباً. بعد بضع سنوات، أصبح طبيباً ممتازاً للجميع.
+هذا معاذ، هو طبيب جيد. عندما كان طِفْلاً، كان يحب أن يساعد الناس. لهذا، حلمه أن يصبح طبيباً. بعد بِضْعَ سنوات، أصبح طبيباً ممتازاً للجميع.
 </div>
 #### English Paragraph
 This is Muadh, he is a good doctor. When he was a child, he loved to help people. That’s why his dream is to become a doctor. After a few years, he became an excellent doctor for everyone.
