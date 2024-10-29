@@ -6,8 +6,8 @@
 </div>
 
 <div style="text-align: right;">
-Here is the table with the columns reordered as you requested:
 
+##### Vocabulary:
 | Urdu               | English            | Arabic                     |
 |--------------------|--------------------|----------------------------|
 | ایک دن             | One day            | في اليوم من الأيام         |
@@ -49,4 +49,5 @@ Here is the table with the columns reordered as you requested:
 | کے ساتھ            | With               | مع                         |
 | اس کا دوست         | His friend         | صديقه                      |
 </div>
+
 Previous: [Paragraphs](../readme.md) | Next: [Paragraph-2](../paragraph-2/readme.md)
