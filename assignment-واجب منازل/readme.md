@@ -3,11 +3,12 @@
 * For مذكر (masculine) words, we use `قَرِيبٌ` and `بَعِيدٌ`. 
 * For مؤنث (feminine) words, we use `قَرِيبَةٌ` and `بَعِيدَةٌ`.
 
-| English Translation                                           | Urdu                                                                     | Arabic                                                     |
-|---------------------------------------------------------------|--------------------------------------------------------------------------|------------------------------------------------------------|
-| My house is far from the mosque.                              | <div dir="rtl"> میرا گھر مسجد سے دور ہے                           </div> | <div dir="rtl"> بَيْتِي بَعِيدٌ من المسجد           </div> |
-| My office is fifty kilometers away from my city.              | <div dir="rtl"> میرا دفتر میرے شہر سے پچاس کلومیٹر دور ہے        </div>  | <div dir="rtl"> مكتبي خمسون كيلوميتر بعيد عن البيت </div>  |
-| The market is near the garden.                                | <div dir="rtl"> بازار باغ سے قریب ہے                             </div>  | <div dir="rtl"> السوق قريبٌ من الحديقة             </div>  |
+| English Translation                              | Urdu                                                                       | Arabic                                                      |
+|--------------------------------------------------|----------------------------------------------------------------------------|-------------------------------------------------------------|
+| My house is far from the mosque.                 | <div dir="rtl"> میرا گھر مسجد سے دور ہے                           </div>   | <div dir="rtl"> بَيْتِي بَعِيدٌ من المسجد           </div>  |
+| My office is fifty kilometers away from my city. | <div dir="rtl"> میرا دفتر میرے شہر سے پچاس کلومیٹر دور ہے        </div>    | <div dir="rtl"> مكتبي خمسون كيلوميتر بعيد عن البيت </div>   |
+| The market is near the garden.                   | <div dir="rtl"> بازار باغ سے قریب ہے                             </div>    | <div dir="rtl"> السوق قريبٌ من الحديقة             </div>   |
+| The school is near the mosque.                   | <div dir="rtl"> اسکول مسجد کے قریب ہے                            </div>    | <div dir="rtl"> مدرسة قريبة من المسجد                </div> |
 
 ----------------------------------------------------------------------------------------------------------------------------
 
