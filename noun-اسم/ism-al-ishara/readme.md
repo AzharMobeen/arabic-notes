@@ -1,4 +1,7 @@
-### أَسْمَاءُ الْإِشَارَةِ  
+### Nouns of Pointing `أَسْمَاءُ الْإِشَارَةِ`  
+
+#### Definition
+- Nouns that are used to point to something.
 
 ```mermaid
 %%{init: {'theme': 'dark', 'themeVariables': {'darkMode': true}, "flowchart" : { "curve" : "basis", "nodeSpacing" : 50, "rankSpacing" : 50 } } }%%
