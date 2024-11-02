@@ -1,16 +1,15 @@
 ### Verb Types (`أقسام الفعل`):
 There are four types of verbs in Arabic Grammar:
-1. `فعل صحيح (Sound Verb)`
-2. `فعل مهموز (Hamza Verb)`
-3. `فعل مضعف (Doubled Verb)`
-4. `فعل معتل (Weak Verb)`
+1. Sound Verb (`فعل صحيح`)
+2. Hamza Verb (`فعل مهموز`)
+3. Doubled Verb (`فعل مضعف`)
+4. Weak Verb (`فعل معتل`)
    - There are five types of `فعل معتل (Weak Verb)`
-   - `معتل المثال: The first root letter is weak`
-   - `معتل الأجوف: The middle root letter is weak`
-   - `معتل الناقص: The last root letter is weak`
-   - `معتل اللفيف مقرون: Two weak letters consecutive`
-   - `معتل اللفيف مفروق: Two weak letters separated by a strong letter`
-
+   - The first root letter is weak (`معتل المثال`)
+   - The middle root letter is weak (`معتل الأجوف`)
+   - The last root letter is weak (`معتل الناقص`)
+   - Two weak letters are consecutive (`معتل اللفيف مقرون`)
+   - Two weak letters separated by a strong letter (`معتل اللفيف مفروق`)
 
 #### Below is the flowchart for Types of Verb (`أقسام الفعل`):
 
