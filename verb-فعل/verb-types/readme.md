@@ -1,5 +1,18 @@
-### Verb Types:
+### Verb Types (`أقسام الفعل`):
+There are four types of verbs in Arabic Grammar:
+1. `فعل صحيح (Sound Verb)`
+2. `فعل مهموز (Hamza Verb)`
+3. `فعل مضعف (Doubled Verb)`
+4. `فعل معتل (Weak Verb)`
+   - There are five types of `فعل معتل (Weak Verb)`
+   - `معتل المثال: The first root letter is weak`
+   - `معتل الأجوف: The middle root letter is weak`
+   - `معتل الناقص: The last root letter is weak`
+   - `معتل اللفيف مقرون: Two weak letters consecutive`
+   - `معتل اللفيف مفروق: Two weak letters separated by a strong letter`
 
+
+#### Below is the flowchart for Types of Verb (`أقسام الفعل`):
 
 ```mermaid
 %%{init: {'theme': 'dark', 'themeVariables': {'darkMode': true}, "flowchart" : { "curve" : "basis" } } }%%
@@ -20,6 +33,9 @@ C1 --> |example| C2("أخذ (akhadha) - He took <br> سأل (sa'ala) - He asked 
 D --> |definition| D1>"Contains a repeated root letter <br> with a shadda (شدة) on it"]
 D1 --> |example| D2("ردّ (radda) - He replied <br> شَدَّ (shadda) - He tightened")
 
+end
+subgraph WeakVerb
+
 E --> |definition| E1>"Contains one or more weak letters (حروف العلة) in its root <br>
     there are five types of فعل معتل (Weak Verb)"]
 E1 --> |1|E2("معتل المثال: The first root letter is weak")
@@ -32,9 +48,11 @@ E1 --> |4|E8("معتل اللفيف مقرون: Two weak letters consecutive")
 E8 --> |example| E9("روي (rawa) - He narrated")
 E1 --> |5|E10("معتل اللفيف مفروق: Two weak letters separated by a strong letter")
 E10 --> |example| E11("وقي (waqi) - He protected")
-
 end
+
 %% Styles
 classDef greenShade fill:#bfb,stroke:#333,stroke-width:2px,color:#000
 class A,B,C,D,E,B1,B2,C1,C2,D1,D2,E1,E2,E3,E4,E5,E6,E7,E8,E9,E10,E11 greenShade;
 ```
+
+[Previous](../readme.md) | [Next](../different-tenses/readme.md) | [Examples](../examples.md)
