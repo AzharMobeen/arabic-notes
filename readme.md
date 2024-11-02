@@ -8,3 +8,5 @@
    a. [Paragraph 1](paragraphs-فقرات/paragraph-1/readme.md)
    b. [Paragraph 2](paragraphs-فقرات/paragraph-2/readme.md)
 5. [Assignments](assignment-واجب%20منازل/readme.md)
+6. Lecture Notes:
+   - [Rafʿ, Nasb, Jarr (1st - Nov - 2024)](lectures/رفع%20-%20نصب%20-%20جر/readme.md)
