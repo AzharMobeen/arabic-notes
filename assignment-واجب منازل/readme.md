@@ -27,8 +27,8 @@
 * For example, `سأذهب` means `I will go`, and `سندرس` means `We will study`.
 * The letter `س` is followed by the present tense verb. For example, `سأذهب` is followed by `أذهب` and `سندرس` is followed by `ندرس`.
 
-| English Translation                                      | Urdu                                                 | Arabic                                                 |
-|----------------------------------------------------------|------------------------------------------------------|--------------------------------------------------------|
-| One day, I will go to Al-Masjid Al-Haram with my family. | ایک دن میں اپنے خاندان کے ساتھ مسجد الحرام جاؤں گا   | في اليوم من الأيام، سأذهب الى المسجد الحرام مع أسرتي   |
-| There is no lesson today, but we will study tomorrow.    | آج کوئی سبق نہیں ہے، لیکن ہم کل پڑھیں گے             | اليوم لا ندرس لكن سندرس غداً                           |
-| I will go to the market with my friend.                  | میں اپنے دوست کے ساتھ بازار جاؤں گا                  | سَأَذْهَبُ الى السوق مع صديقي                          |
+| English Translation                                      | Urdu                                                    | Arabic                                                     |
+|----------------------------------------------------------|---------------------------------------------------------|------------------------------------------------------------|
+| One day, I will go to Al-Masjid Al-Haram with my family. | ایک دن میں اپنے خاندان کے ساتھ مسجد الحرام جاؤں گا      | في اليوم من الأيام، سأذهب الى المسجد الحرام مع أسرتي       |
+| There is no lesson today, but we will study tomorrow.    | آج کوئی سبق نہیں ہے، لیکن ہم کل پڑھیں گے                | اليوم لا ندرس لكن سندرس غداً                               |
+| I will go to the market with my friend.                  | میں اپنے دوست کے ساتھ بازار جاؤں گا                     | سَأَذْهَبُ الى السوق مع صديقي                              |
