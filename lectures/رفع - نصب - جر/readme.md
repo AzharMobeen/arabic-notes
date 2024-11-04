@@ -1,16 +1,16 @@
 ### رفع (Rafʿ) , نصب (Nasb) , جر (Jarr)
 
-1. `رفع (Rafʿ)`:
+1. `رفع (Rafʿ)`
     - Refers to the nominative case.
     - `مرفوع (Marfūʿ)` is the state of the subject (`فاعل`) or any noun in this case.
     - `Example`: `الطالبُ` (The student) in `الطالبُ مجتهدٌ` (The student is diligent).
 
-2. `نصب (Nasb)`:
+2. `نصب (Nasb)`
     - Refers to the accusative case.
     - `منصوب (Manṣūb)` is the state of the object (`مفعول`) or any noun in this case.
     - `Example`: `الكتابَ` (the book) in `أحبُّ الكتابَ` (I love the book).
 
-3. `جر (Jarr)`:
+3. `جر (Jarr)`
     - Refers to the genitive case.
     - `مجرور (Majrūr)` is the state of the noun that follows a preposition (or is in a construct).
     - `Example`: `الطالبِ` (of the student) in `كتابُ الطالبِ` (The student's book).
