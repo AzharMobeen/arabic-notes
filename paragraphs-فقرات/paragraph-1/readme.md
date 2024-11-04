@@ -2,53 +2,31 @@
 
 #### Arabic Paragraph
 <div style="text-align: right;">
-في اليوم من الايام، احمد ذهب الى الحديقة مع صديقهِ خالد.
-جلسا تحت شجرة كبيرة على العشب، بينما أطفال لعبوا في الملعب قدامهما، تحدثا خططهم المستقبل والأحلام كبيرة.
+في يوم من الايام، احمد ذهب الى الحديقة مع صديقهِ خالد
+جلسا تحت شجرة كبيرة على العشب، بينما أطفال لعبوا في الملعب قدامهما، تحدثا خططهم المستقبل والأحلام كبيرة
 ثم احمد رجع الى بيتهِ بعد غروب الشمس، سعيدا بماقضا من الوقت جميل مع صديقهِ
 </div>
 
-#### Word by Word Translation
+#### English Paragraph
+On one of the days, Ahmad went to the park with his friend Khaled. They sat under a large tree on the grass while children played in the playground in front of them. They talked about their future plans and big dreams. Then Ahmad returned to his home after sunset, happy with the beautiful time he spent with his friend.
 
-| <div align="right">Urdu</div>               | English            | <div align="right">Arabic</div>            |
-|---------------------------------------------|--------------------|--------------------------------------------|
-| <div align="right">ایک دن</div>             | One day            | <div align="right"> في يوم من الأيام</div> |
-| <div align="right">احمد</div>               | Ahmad              | <div align="right">أحمد</div>              |
-| <div align="right">گیا</div>                | Went               | <div align="right">ذهب</div>               |
-| <div align="right">کو</div>                 | To                 | <div align="right">إلى</div>               |
-| <div align="right">پارک</div>               | The park           | <div align="right">الحديقة</div>           |
-| <div align="right">کے ساتھ</div>            | With               | <div align="right">مع</div>                |
-| <div align="right">اس کا دوست</div>         | His friend         | <div align="right">صديقه</div>             |
-| <div align="right">خالد</div>               | Khalid             | <div align="right">خالد</div>              |
-| <div align="right">وہ بیٹھے</div>           | They sat           | <div align="right">جلسا</div>              |
-| <div align="right">کے نیچے</div>            | Under              | <div align="right">تحت</div>               |
-| <div align="right">درخت</div>               | Tree               | <div align="right">شجرة</div>              |
-| <div align="right">بڑا</div>                | Big                | <div align="right">كبيرة</div>             |
-| <div align="right">پر</div>                 | On                 | <div align="right">على</div>               |
-| <div align="right">گھاس</div>               | The grass          | <div align="right">العشب</div>             |
-| <div align="right">جبکہ</div>               | While              | <div align="right">بينما</div>             |
-| <div align="right">بچے</div>                | Children           | <div align="right">أطفال</div>             |
-| <div align="right">کھیلے</div>              | Played             | <div align="right">لعبوا</div>             |
-| <div align="right">میں</div>                | In                 | <div align="right">في</div>                |
-| <div align="right">کھیل کا میدان</div>      | The playground     | <div align="right">الملعب</div>            |
-| <div align="right">ان کے سامنے</div>        | In front of them   | <div align="right">قدامهما</div>           |
-| <div align="right">انہوں نے بات کی</div>    | They talked        | <div align="right">حدثا</div>              |
-| <div align="right">ان کے منصوبے</div>       | Their plans        | <div align="right">خططهم</div>             |
-| <div align="right">مستقبل</div>             | Future             | <div align="right">المستقبل</div>          |
-| <div align="right">اور خواب</div>           | And the dreams     | <div align="right">والأحلام</div>          |
-| <div align="right">بڑا</div>                | Big                | <div align="right">كبيرة</div>             |
-| <div align="right">پھر</div>                | Then               | <div align="right">ثم</div>                |
-| <div align="right">واپس آیا</div>           | Returned           | <div align="right">رجع</div>               |
-| <div align="right">کو</div>                 | To                 | <div align="right">إلى</div>               |
-| <div align="right">اس کا گھر</div>          | His Home           | <div align="right">بيتهِ</div>             |
-| <div align="right">کے بعد</div>             | After              | <div align="right">بعد</div>               |
-| <div align="right">سورج غروب</div>          | Sunset             | <div align="right">غروب الشمس</div>        |
-| <div align="right">خوش</div>                | Happy              | <div align="right">سعيدا</div>             |
-| <div align="right">اس نے جو وقت گزارا</div> | With what he spent | <div align="right">بما قضى</div>           |
-| <div align="right">کا</div>                 | Of                 | <div align="right">من</div>                |
-| <div align="right">وقت</div>                | The time           | <div align="right">الوقت</div>             |
-| <div align="right">خوبصورت</div>            | Beautiful          | <div align="right">جميل</div>              |
-| <div align="right">کے ساتھ</div>            | With               | <div align="right">مع</div>                |
-| <div align="right">اس کا دوست</div>         | His friend         | <div align="right">صديقه</div>             |
+#### Word by Word Translation
+| English Translation                          | <div align="right">Urdu</div>                                      | <div align="right">Arabic</div>                      |
+|----------------------------------------------|--------------------------------------------------------------------|------------------------------------------------------|
+| On one of the days                           | <div align="right">ایک دن میں</div>                                | <div align="right">في اليوم من الأيام</div>          |
+| Ahmad went to the park                       | <div align="right">احمد پارک گیا</div>                             | <div align="right">أحمد ذهب إلى الحديقة</div>        |
+| with his friend Khaled                       | <div align="right">اپنے دوست خالد کے ساتھ</div>                    | <div align="right">مع صديقهِ خالد</div>              |
+| They sat under a large tree                  | <div align="right">وہ ایک بڑے درخت کے نیچے بیٹھ گئے</div>          | <div align="right">جلسا تحت شجرة كبيرة</div>         |
+| on the grass                                 | <div align="right">گھاس پر</div>                                   | <div align="right">على العشب</div>                   |
+| while children played                        | <div align="right">جب بچے کھیل رہے تھے</div>                       | <div align="right">بينما الأطفال لعبوا</div>         |
+| in the playground in front of them           | <div align="right">ان کے سامنے کے کھیل کے میدان میں</div>          | <div align="right">في الملعب أمامهما</div>           |
+| They talked about their future plans         | <div align="right">انہوں نے اپنے مستقبل کے منصوبوں پر بات کی</div> | <div align="right">تحدثا عن خططهم المستقبلية</div>   |
+| and big dreams                               | <div align="right">اور بڑے خواب</div>                              | <div align="right">والأحلام الكبيرة</div>            |
+| Then Ahmad returned to his home              | <div align="right">پھر احمد اپنے گھر واپس گیا</div>                | <div align="right">ثم رجع أحمد إلى بيتهِ</div>       |
+| after sunset                                 | <div align="right">غروب آفتاب کے بعد</div>                         | <div align="right">بعد غروب الشمس</div>              |
+| happy with the beautiful time                | <div align="right">خوش وقت گزار کر</div>                           | <div align="right">سعيداً بما قضاه من وقت جميل</div> |
+| he spent with his friend                     | <div align="right">جو اپنے دوست کے ساتھ گزارا</div>                | <div align="right">مع صديقهِ</div>                   |
+
 
 
 Previous: [Paragraphs](../readme.md) | Next: [Paragraph-2](../paragraph-2/readme.md)
