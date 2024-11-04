@@ -1,4 +1,6 @@
-###  انواع الاسم
+###  Types of Noun (`انواع الاسم`)
+
+
 
 ```mermaid
 graph TD
@@ -31,4 +33,4 @@ graph TD
     class A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X greenShade;
 ```
 
-[Previous](esam-al-ishara/readme) | [Next](./readme)
+[Previous](../ism-al-ishara/readme.md) | [Next]()

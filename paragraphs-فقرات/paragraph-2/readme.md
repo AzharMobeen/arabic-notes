@@ -39,4 +39,4 @@ This is Muadh, he is a good doctor. When he was a child, he loved to help people
 | سب کے (sab ke)             | for everyone       | للجميع (lil-jamīʿ)    |
 
 
-Previous: [Paragraphs](../paragraph-1/readme.md) | Next: [Paragraph-3](../paragraph-2/readme.md)
+Previous: [Paragraphs](../paragraph-1/readme.md) | Next: [Paragraph-3](../paragraph-3/readme.md)

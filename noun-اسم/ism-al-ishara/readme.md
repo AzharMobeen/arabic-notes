@@ -35,4 +35,4 @@ flowchart TB
     class B2,C2 pinkShade;
 ```
 
-[Previous](../readme.md) | [Next](../ism-types/readme)
+[Previous](../readme.md) | [Next](../ism-types/readme.md)
