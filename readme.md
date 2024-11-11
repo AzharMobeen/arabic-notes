@@ -19,3 +19,4 @@
 5. [Assignments](assignment-واجب%20منازل/1)
 6. Lecture Notes:
    - [Rafʿ, Nasb, Jarr (1st - Nov - 2024)](lectures/رفع%20-%20نصب%20-%20جر/readme.md)
+   - [الموصوف الصفه (7th - Nov - 2024)](lectures/الموصوف الصفة/readme.md)
