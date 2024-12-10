@@ -18,7 +18,10 @@
    - [Muadh's Journey to Becoming a Doctor ](paragraphs-فقرات/paragraph-2/readme.md)
    - [I went to the Labrary](paragraphs-فقرات/paragraph-3/readme.md)
    - [A visit to the Park](paragraphs-فقرات/paragraph-4/readme.md)
-5. [Assignments](assignment-واجب%20منازل/1)
-6. Lecture Notes:
+5. [Rules-قواعد](rules/readme.md)
+   - [عدد معدود](rules/عدد%20معدود/readme.md) 
+   - [Grammar Cases (مرفوع, منصوب, مجرور) and Their Application in "عدد معدود"](rules/عدد%20معدود/grammar/readme.md)
+6. [Assignments](assignment-واجب%20منازل/1)
+7. Lecture Notes:
    - [Rafʿ, Nasb, Jarr (1st - Nov - 2024)](lectures/رفع%20-%20نصب%20-%20جر/readme.md)
    - [الموصوف الصفه (7th - Nov - 2024)](lectures/الموصوف الصفة/readme.md)
